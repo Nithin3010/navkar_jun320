@@ -86,6 +86,10 @@ self.__precacheManifest = [
     "revision": "fd76fc75e438a31c33a7f11d26984776"
   },
   {
+    "url": "index2.html",
+    "revision": "725e516d03f56dd98180cb0a02017c98"
+  },
+  {
     "url": "jquery-2.2.4.min.js",
     "revision": "2f6b11a7e914718e0290410e85366fe9"
   },
